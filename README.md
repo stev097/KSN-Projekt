@@ -6,6 +6,7 @@
 ## Gruppenmitglieder: 
 - Stefan Tesic
 - Mensur Sehic
+- Antonia Dzidzic
 ## Abgabetag: 10.04.2024
 
 
@@ -17,8 +18,12 @@
     - Hardware testen mit einem Spektrum Analyzer; UKW-Spektrum: 80-110 MHz
     - Gruppeneinteilung über Eduvidual
     - Projektthema suchen
+- #### 13.03.2024:
+    - Projektthema suchen
+    - Hardware
 - #### 20.03.2024
 - #### 03.04.2024:
 - #### 10.04.2024:
     - Abgabe, Präsentation des Projekts
     - Benotung 
+
