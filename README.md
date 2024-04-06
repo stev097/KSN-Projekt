@@ -29,4 +29,10 @@
 - #### 10.04.2024:
     - Abgabe, Präsentation des Projekts
     - Benotung 
+---------------------------------------------------------------------------------
+## Aufbau:
+![FMRADIO](https://github.com/stev097/KSN-Projekt/assets/162420138/2c5001ab-5dee-43b3-839e-c76f62ee4484)
+
+## Simulation:
+![FMRADIO2](https://github.com/stev097/KSN-Projekt/assets/162420138/f5691430-bac7-4919-8a53-23911812f3b8)
 
