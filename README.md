@@ -1,8 +1,8 @@
 # KSN-Projekt 5CHEL
 2. Semester Projekt in der 5. Klasse
 
-## Thema:
-### Genauere Beschreibung: 
+## Thema: FM Radio
+### Genauere Beschreibung: Einfaches Radio, Frequenz verstellbar
 ## Gruppenmitglieder: 
 - Stefan Tesic
 - Mensur Sehic
@@ -21,8 +21,11 @@
 - #### 13.03.2024:
     - Projektthema suchen
     - Hardware
-- #### 20.03.2024
+- #### 20.03.2024:
+    - FM Radio erstellt
 - #### 03.04.2024:
+    - FM Radio getestet
+    - GitHub Protokoll erstellt
 - #### 10.04.2024:
     - Abgabe, Präsentation des Projekts
     - Benotung 
